@@ -1,4 +1,4 @@
-\# 🎬 Visualización de Machine Learning con Manim
+🎬 Visualización de Machine Learning con Manim
 
 
 
